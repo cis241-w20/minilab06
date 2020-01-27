@@ -1,0 +1,6 @@
+this is a file
+with 6 lines
+in it
+for minilab 6
+more words
+the end
