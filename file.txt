@@ -1,6 +1,7 @@
-hi i made a file and now you are reading it
-this is line 2 hello
-this is line 3 hi
-this is line 4 how are you
-this is line 5 i am good
-this is line 6 goodbye
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
+
