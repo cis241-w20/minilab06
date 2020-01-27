@@ -1,7 +1,6 @@
-line 1
-line 2
-line 3
-line 4
-line 5
-line 6
-
+line 1 hello
+line 2 hi
+line 3 how are you
+line 4 i am good
+line 5 i hope you are too
+line 6 goodbye
