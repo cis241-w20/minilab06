@@ -1,3 +1,4 @@
 This file is named B.
 It has even more text than fileA.
 See additional text!
+This is cool
